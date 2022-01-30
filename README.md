@@ -1,1 +1,4 @@
 # myfirstproject
+
+git basics
+linux
